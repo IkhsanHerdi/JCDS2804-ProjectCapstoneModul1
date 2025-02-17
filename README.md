@@ -1,14 +1,14 @@
 # JCDS2804-ProjectCapstoneModul1
 Project Capstone Modul 1 - Library Application
 
-A library application is built in Python Programming Language that helps manage library data and operations. It can include features for managing books, cataloging, Recycle Bin, and Rent a Book. 
+A library application in Campus is built in Python Programming Language that helps manage library data and operations. It can include features for managing books, cataloging, Recycle Bin, and Rent a Book. 
 
-**Pengguna Aplikasi :**
+**Application User :**
 1. Admin
-2. User
+2. User (in this case is student)
 
-**Fitur Pengguna Aplikasi**
-* **Fitur Admin**
+**Feature Application**
+* **Admin Feature**
   * Lihat Katalog Buku
   * Pengembalian Buku
   * Lihat buku yang Dipinjam
@@ -21,7 +21,7 @@ A library application is built in Python Programming Language that helps manage 
   * History Peminjaman Buku
   * Logout
 
-* **Fitur User**
+* **User Feature**
   * Lihat Katalog Buku
   * Sewa Buku
   * Lihat buku yang Dipinjam
