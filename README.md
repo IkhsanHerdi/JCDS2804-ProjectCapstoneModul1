@@ -24,3 +24,7 @@ Project Capstone Modul 1 - Library Application
   * Sewa Buku
   * Lihat buku yang Dipinjam
   * Logout
+ 
+
+ **FLOWCHART LIBRARY APPLICATION**
+ 
