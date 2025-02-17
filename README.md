@@ -1,26 +1,26 @@
 # JCDS2804-ProjectCapstoneModul1
 Project Capstone Modul 1 - Library Application
 
-Pengguna Aplikasi :
+**Pengguna Aplikasi :
 1. Admin
-2. User
+2. User**
 
-Fitur Pengguna Aplikasi
-* Fitur Admin
-  1. Lihat Katalog Buku
-  2. Pengembalian Buku
-  3. Lihat buku yang Dipinjam
-  4. Tambah Buku Baru
-  5. Update Informasi Buku
-  6. Hapus Buku
-  7. Cari Buku
-  8. Recycle Bin
-  9. Buku yang paling sering Di sewa
-  10. History Peminjaman Buku
-  11. Logout
+**Fitur Pengguna Aplikasi**
+* **Fitur Admin**
+  * Lihat Katalog Buku
+  * Pengembalian Buku
+  * Lihat buku yang Dipinjam
+  * Tambah Buku Baru
+  * Update Informasi Buku
+  * Hapus Buku
+  * Cari Buku
+  * Recycle Bin
+  * Buku yang paling sering Di sewa
+  * History Peminjaman Buku
+  * Logout
 
-* Fitur User
-  1. Lihat Katalog Buku
-  2. Sewa Buku
-  3. Lihat buku yang Dipinjam
-  4. Logout
+* **Fitur User**
+  * Lihat Katalog Buku
+  * Sewa Buku
+  * Lihat buku yang Dipinjam
+  * Logout
