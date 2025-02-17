@@ -27,4 +27,5 @@ Project Capstone Modul 1 - Library Application
  
 
  **FLOWCHART LIBRARY APPLICATION**
- 
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/IkhsanHerdi/JCDS2804-ProjectCapstoneModul1/blob/main/FlowChart%20Modul%201%20-%20Main().png)?raw=true
